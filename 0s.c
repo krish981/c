@@ -16,7 +16,7 @@ for(int i=0;i<3;i++){
 		}else{
 		printf("%d",first[i][j]);
 		}
-	}
+	}  
 	printf("\n");
 }
 
